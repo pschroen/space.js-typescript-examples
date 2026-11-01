@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2023",
+    "moduleResolution": "bundler",
+    "rootDir": "./src",
+    "outDir": "./public",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true
+  },
+  "include": ["src"]
+}
